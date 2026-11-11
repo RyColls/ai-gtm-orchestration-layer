@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ridgeline-gtm-harness
+    name: ai-gtm-orchestration-layer
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt

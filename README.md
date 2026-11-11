@@ -1,8 +1,8 @@
-# Ridgeline GTM Harness
+# AI GTM Orchestration Layer
 
 A proof of concept for a GTM engineering consulting engagement: one system where enrichment, scoring, routing, messaging and logging work together, instead of five tools that each think they're the source of truth.
 
-**👉 [Open the proof of concept](https://rycolls.github.io/ridgeline-gtm-harness/)**, one web page with the full design, a working scoring prototype and a client note. Start with the **Start here** tab.
+**👉 [Open the proof of concept](https://rycolls.github.io/ai-gtm-orchestration-layer/)**, one web page with the full design, a working scoring prototype and a client note. Start with the **Start here** tab.
 GitHub shows `.html` files as code instead of rendering them, so use that link. The page source is [`docs/index.html`](docs/index.html).
 
 ## The scenario

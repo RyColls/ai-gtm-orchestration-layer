@@ -1,4 +1,4 @@
-"""Ridgeline GTM Harness: design, prototype and client note in one app.
+"""AI GTM Orchestration Layer: design, prototype and client note in one app.
 
 Run locally:  pip install -r requirements.txt && python app.py   ->  http://localhost:5000
 """
